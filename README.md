@@ -45,7 +45,7 @@ chmod +x ~/.yabairc
 
 
 
-You may refer to [official examples](https://github.com/koekeishiya/yabai/tree/master/examples) or refer to my config file.
+You may refer to [official examples](https://github.com/koekeishiya/yabai/tree/master/examples) or refer to [my config file](https://github.com/Hydraallen/yabai_Usage/blob/main/.yabairc).
 
 #### [Uninstall](https://github.com/koekeishiya/yabai/wiki/Uninstalling-yabai)
 
@@ -60,7 +60,7 @@ You may refer to [official examples](https://github.com/koekeishiya/yabai/tree/m
   skhd --start-service
 ```
 
-You may refer to [official examples](https://github.com/koekeishiya/skhd/tree/master/examples) or refer to my config file.
+You may refer to [official examples](https://github.com/koekeishiya/skhd/tree/master/examples) or refer to [my config file](https://github.com/Hydraallen/yabai_Usage/blob/main/.skhdrc).
 
 
 
