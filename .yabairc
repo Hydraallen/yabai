@@ -151,6 +151,12 @@ yabai -m rule --add app="^BetterTouchTool$" manage=off
 yabai -m rule --add app="^Magnet$" manage=off
 yabai -m rule --add app="^WeChat$" manage=off
 yabai -m rule --add app="^微信$" manage=off
+yabai -m rule --add app="^阿里云盘$" manage=off
+yabai -m rule --add app="^百度网盘$" manage=off
+yabai -m rule --add app="^夸克网盘$" manage=off
+yabai -m rule --add app="^腾讯会议$" manage=off
+yabai -m rule --add app="^瞩目国际版$" manage=off
+yabai -m rule --add app="^Email$" manage=off
 
 echo "yabai configuration loaded.."
 
