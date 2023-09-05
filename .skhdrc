@@ -1,3 +1,10 @@
+#                       _    _         _          
+# _ __ ___  _   _   ___| | _| |__   __| |_ __ ___ 
+#| '_ ` _ \| | | | / __| |/ / '_ \ / _` | '__/ __|
+#| | | | | | |_| | \__ \   <| | | | (_| | | | (__ 
+#|_| |_| |_|\__, | |___/_|\_\_| |_|\__,_|_|  \___|
+#           |___/
+#
 #SKHD STUFF
 
 # if you're having troubles finding key codes for a key just type skhd --observe in a terminal and type a key. Pretty cool! Or just check the wiki.
