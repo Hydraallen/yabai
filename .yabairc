@@ -163,6 +163,9 @@ yabai -m rule --add app="^夸克网盘$" manage=off
 yabai -m rule --add app="^腾讯会议$" manage=off
 yabai -m rule --add app="^瞩目国际版$" manage=off
 yabai -m rule --add app="^Email$" manage=off
+yabai -m rule --add app="^MATLAB$" manage=off
+yabai -m rule --add app="^PicGo$" manage=off
+yabai -m rule --add app="^QQ音乐$" manage=off
 
 echo "yabai configuration loaded.."
 
