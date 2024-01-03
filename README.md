@@ -1,6 +1,7 @@
 # yabai
 This repository contains config file for yabai.
 
+**I'm not using yabai any more.**
 
 
 ## Installation
